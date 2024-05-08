@@ -13,7 +13,7 @@ I am a PhD candidate at [Johns Hopkins University](https://www.jhu.edu/), Baltim
 
 **Prakhar Kaushik**, Adam Kortylewski, Alan Yuille
 
-2024 EEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
+2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 
 
 
 #### [A Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose](https://arxiv.org/abs/2401.10848)
